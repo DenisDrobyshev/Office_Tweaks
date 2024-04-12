@@ -1,1 +1,1 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Office+Tweaks)
+The Python test project "Office Tweaks" is a converter for various formats with little functionality (changing the working directory, converting PDF to Docx, converting Docx to PDF, compressing images, deleting a group of files, exiting). It was done as a homework assignment at the university.
