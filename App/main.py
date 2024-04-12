@@ -1,4 +1,4 @@
-from logics import *
+from App.logics import *
 
 
 def menu():
